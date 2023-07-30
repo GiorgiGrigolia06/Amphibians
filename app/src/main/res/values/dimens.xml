@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_item_padding">20dp</dimen>
+    <dimen name="lazy_column_vertical_content_padding">30dp</dimen>
+    <dimen name="lazy_column_horizontal_content_padding">12dp</dimen>
+    <dimen name="lazy_column_vertical_arrangement">30dp</dimen>
+</resources>
